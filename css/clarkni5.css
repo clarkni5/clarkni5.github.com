@@ -1,0 +1,29 @@
+﻿html,
+body {
+	background: #253349;
+	color: white;
+	font-family: 'Droid Sans', Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	line-height: 1.4;
+}
+
+body {
+	padding: 100px 0 0 150px;
+}
+
+a {
+	color: #77BCCC;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+h1 {
+	font-size: 22px;
+}
+
+p {
+	margin: 18px 0;
+}
